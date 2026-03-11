@@ -1,5 +1,5 @@
-# Creación de componentes para equipos de trabajo colaborativo mediante diseño atómico.
-Los equipos de diseño y desarrollo enfrentaban inconsistencias en el uso de componentes, lo que generaba retrabajo y dificultaba la colaboración.
+# Pruebas de usabilidad para simplificar procesos y mejorar la experiencia digital.
+Pruebas para la comprensión de la interfaz, dificultades y tiempos o bloqueos en la interacción..
 <img width="3500" height="2262" alt="10" src="https://github.com/user-attachments/assets/c7d4ed0c-2629-4168-a924-fd74370b99cd" />
 <img width="3500" height="2262" alt="9" src="https://github.com/user-attachments/assets/4946dbc9-4366-44c4-80be-6b9d95278a23" />
 <img width="3500" height="2262" alt="15" src="https://github.com/user-attachments/assets/9e18b1c9-2def-4269-a29c-ef6a5c3f2f84" />
